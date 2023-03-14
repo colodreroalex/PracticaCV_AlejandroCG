@@ -10,6 +10,7 @@
             //ENTRADAS
             //PROCESOS
             //SALIDAS
+            Console.WriteLine("Mi nombre es: AlejandroCG");
         }
     }
 }
