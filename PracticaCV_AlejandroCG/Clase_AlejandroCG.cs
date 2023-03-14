@@ -8,5 +8,11 @@ namespace PracticaCV_AlejandroCG
 {
     internal class Clase_AlejandroCG
     {
+        //CONSTANTES
+        //VARIABLES
+        //INICIALIZACION
+        //ENTRADAS
+        //PROCESO
+        //SALIDAS
     }
 }
